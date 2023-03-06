@@ -1,0 +1,1 @@
+Daily respository for personal tests, it's just for memorize Git commands.
