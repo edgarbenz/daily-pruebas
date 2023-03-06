@@ -1,7 +1,5 @@
 # esto es un comment
 *.exe
 *.log
-# Se puede ignorar una carpeta
-#Modificacion de rama main
-#Again
-#Again
+
+# 1ST commit - MAIN branch
